@@ -1,4 +1,40 @@
-# jasim
+# Vehicle Catalog Management System
+
+A desktop-based vehicle catalog application built with Python and Tkinter that allows users to browse, search, and manage vehicle listings through an intuitive graphical user interface.
+
+## Features
+
+### User Features
+- User account creation and authentication
+- Guest access mode
+- Vehicle catalog browsing
+- Vehicle search functionality
+- Dynamic filtering by vehicle attributes
+- Wishlist/Favorites management
+- Vehicle image display
+- Vehicle video previews
+- Detailed vehicle information viewing
+
+### Administrator Features
+- Administrator authentication
+- Vehicle catalog management
+- Add new vehicle listings
+- Edit existing vehicle information
+- Remove vehicles from the catalog
+- Manage catalog data persistence
+
+### Catalog Data
+Each vehicle record contains:
+- Vehicle ID
+- Make
+- Model
+- Year
+- Color
+- Number of Doors
+- Number of Wheels
+- Horsepower
+- Vehicle Image
+- Vehicle Video
 
 ## How to Download and Run:
 For people who simply want to download and run the program:
